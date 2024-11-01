@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WS Tools Bar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-09 15:33+0800\n"
+"PO-Revision-Date: 2008-09-09 15:33+0800\n"
+"Last-Translator: icyleaf <icyleaf.cn@gmail.com>\n"
+"Language-Team: icyleaf\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: E:\\PHP\\wp\\wordpress\\wp-content\\plugins\\ws-tools-bar\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: E:\\PHP\\wp\\wordpress\\wp-content\\plugins\\ws-tools-bar\n"
+
+#: wstoolsbar.php:50
+#: wstoolsbar.php:59
+#: wstoolsbar.php:96
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:50
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:59
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:96
+msgid "Hide Tools Bar"
+msgstr "关闭快速导航"
+
+#: wstoolsbar.php:57
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:57
+msgid "Tools Bar"
+msgstr "快速导航"
+
+#: wstoolsbar.php:59
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:59
+msgid "Options"
+msgstr "选项"
+
+#: wstoolsbar.php:61
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:61
+msgid "Manage Post/Page, etc..."
+msgstr "管理日志/页面等等"
+
+#: wstoolsbar.php:61
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:61
+msgid "Manage"
+msgstr "管理"
+
+#: wstoolsbar.php:62
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:62
+msgid "WritePost"
+msgstr "撰写日志"
+
+#: wstoolsbar.php:63
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:63
+msgid "Themes"
+msgstr "主题"
+
+#: wstoolsbar.php:68
+#: wstoolsbar.php:70
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:68
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:70
+msgid "Plugins"
+msgstr "插件"
+
+#: wstoolsbar.php:74
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:74
+msgid "Blogroll"
+msgstr "链接"
+
+#: wstoolsbar.php:80
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:80
+#, php-format
+msgid "(%s) Awaiting Moderation"
+msgstr "(%s) 条等待审查留言"
+
+#: wstoolsbar.php:83
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:83
+msgid "Logout"
+msgstr "登出"
+
+#: wstoolsbar.php:102
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:102
+msgid "UserName"
+msgstr "用户名"
+
+#: wstoolsbar.php:103
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:103
+msgid "PassWord"
+msgstr "密码"
+
+#: wstoolsbar.php:104
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:104
+msgid "Remeber me"
+msgstr "记住我"
+
+#: wstoolsbar.php:105
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:105
+msgid "Login"
+msgstr "登录"
+
+#: wstoolsbar.php:109
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:109
+msgid "Register User"
+msgstr "注册用户"
+
+#: wstoolsbar.php:109
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:109
+msgid "Registry"
+msgstr "注册"
+
+#: wstoolsbar.php:111
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:111
+msgid "Konw more about this plug-in"
+msgstr "了解此插件"
+
+#: wstoolsbar.php:111
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:111
+msgid "Help"
+msgstr "帮助"
+
+#: wstoolsbar.php:121
+#: E:\PHP\wp\wordpress\wp-content\plugins\ws-tools-bar/wstoolsbar.php:121
+#, php-format
+msgid "WordPress %1$s is available!"
+msgstr "WordPress %1$s 版本发布！"
+

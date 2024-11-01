@@ -1,0 +1,164 @@
+﻿/*************************************
+ * 修改自X-Space Toolbar             *
+ * 修改者：icyleaf                   *
+ * Email：icyleaf.cn@gmail.com       *
+**************************************/
+
+
+/* ToolBar框架 */
+#toolbarshowbtn {
+position: fixed !important;
+position: absolute;
+left: 0;
+top: 0;
+display: block;
+width: 50px;
+height: 43px;
+background: transparent url(images/showbtn_en.gif) no-repeat left top;
+opacity: 0.4;
+filter: alpha(opacity=40);
+}
+
+#toolbarshowbtn a {
+display: block;
+width: 100%;
+height: 100%;
+text-indent: -9999px;
+}
+
+#toolbarframe {
+position: fixed !important;
+position: absolute;
+display: none;
+left: 0;
+top: 0;
+height: 30px;
+width: 100%;
+}
+#toolbarframe iframe { width: 100%; height: 30px; background: transparent; }
+
+/* Toolbar样式 */
+
+#toolbar {
+	height: 30px;
+	he\ight: 29px;
+	border-bottom: 1px solid #A3A2B3;
+	background: #F3F5Fc url(images/bg.gif) repeat-x left top;
+	overflow: hidden;
+	color:#000;
+}
+
+#toolbar ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	padding-top: 4px;
+	margin:0 0 0 5px;
+}
+#toolbar li {
+	display: block;
+	float: left;
+	padding: 0 1px 0 3px;
+	background: url(images/line.gif) no-repeat left;
+	line-height: 24px;
+}
+#toolbar a {
+	display: block;
+	float: left;
+	height: 20px;
+	line-height: 22px;
+	overflow: visible !important;
+	overflow: hidden;
+	padding: 0 2px;
+	padding-left: 23px;
+	margin: 1px;
+}
+
+#toolbar .right {
+	float: right;
+}
+#toolbar .right li {
+	float: right;
+}
+
+#toolbar a:link,#toolbar a:visited {
+	color: #000;
+	text-decoration: none;
+}
+#toolbar a:hover {
+	border: 1px solid;
+	margin: 0 !important;
+	margin-right: 1px;
+	border-top-color: #FFF;
+	border-right-color: #808080;
+	border-bottom-color: #808080;
+	border-left-color: #FFF;
+	text-decoration: none;
+}
+
+#toolbar input {
+	border-top: 1px solid #333;
+	border-right: 1px solid #F5F5F5;
+	border-bottom: 1px solid #F5F5F5;
+	border-left: 1px solid #333;
+	vertical-align: middle;
+}
+#toolbar button#wp-submit {
+	background: url(images/login.gif) no-repeat 3px 2px;
+	border: none;
+	height: 22px;
+	line-height: 22px;
+	padding-left: 19px;
+	vertical-align: middle;
+	margin: 1px;
+	cursor: pointer;
+}
+#toolbar a.reg {
+	background: url(images/reg.gif) no-repeat 3px 2px;
+}
+#toolbar a.help {
+	background: url(images/help.gif) no-repeat 3px 2px;
+}
+
+#toolbar a.options {
+	background: url(images/options.gif) no-repeat 3px 2px;
+}
+#toolbar a.post {
+	background: url(images/post.gif) no-repeat 3px 1px;
+}
+#toolbar a.themes {
+	background: url(images/themes.gif) no-repeat 3px 2px;
+}
+#toolbar a.plugins {
+	background: url(images/plugins.gif) no-repeat 3px 2px;
+}
+#toolbar a.manage {
+	background: url(images/manage.gif) no-repeat 3px 2px;
+}
+#toolbar a.users {
+	background: url(images/users.gif) no-repeat 3px 2px;
+}
+#toolbar a.links {
+	background: url(images/links.gif) no-repeat 3px 2px;
+}
+#toolbar a.logout {
+	background: url(images/logout.gif) no-repeat 3px 2px;
+}
+#toolbar a.moderation {
+	background: url(images/moderation.gif) no-repeat 3px 2px;
+}
+#toolbar a.version{
+  background: url(images/version.gif) no-repeat 3px 2px;
+}
+
+
+#toolbar a.close {
+	padding-left: 2px;
+	background:url(images/close.gif) no-repeat 3px 2px;
+	width: 20px;
+	text-indent: -9999px;
+}
+
+#toolbar li.noborder {
+	background: none;
+}
